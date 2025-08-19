@@ -2,8 +2,7 @@
 This site collects my weekly artifacts for CYBR2100.
 
 - [Week 1 — Ethics & Law Orientation](./week-01/)
-- [Week 1 — Ethics & Law Orientation](week-01/)
-- - [Week 2 — Privacy by Design: Monitoring Policy](./week-02/)
+- [Week 2 — Privacy by Design: Monitoring Policy](./week-02/)
 - [Week 3 — OSS & Disclosure Readiness](./week-03/)
 - [Week 4 — Incident Ethics & Evidence Notes](./week-04/)
 - [Week 5 — ROE Starter Pack](./week-5/)
