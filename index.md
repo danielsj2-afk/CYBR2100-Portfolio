@@ -1,4 +1,4 @@
-# CYBR-2100 Portfolio
+# Hocking College 2025
 ## Cyber Ethics and Cyber Law
 
 - [Week 1 — Ethics & Law Orientation](./week-01/)
