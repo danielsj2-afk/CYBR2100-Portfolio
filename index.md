@@ -9,4 +9,3 @@ This site collects my weekly artifacts for CYBR2100.
 - [Week 6 — AI Use in Security Operations](/week-6/)
 - [Week 7 — Bioethics & Society Plan](/week-7/)
 - [Week 8 — Portfolio Index & Ethics Statement](/week-8/)
-- 
