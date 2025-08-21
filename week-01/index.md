@@ -11,8 +11,7 @@
 
 ## Evidence Links
 - Reflection PDF
-- Policy snippet doc/pdf
-- [Space Shuttle Image](./Nasa_Shuttle_Test_Using_Electron_Beam.jpg)
+- [Policy snippet](./policy_snippet.pdf)
 <!-- add any diagrams -->
 
 ## Reflection
