@@ -1,5 +1,5 @@
 # Hocking College 2025
-## Cyber Ethics and Cyber Law
+### Cyber Ethics and Cyber Law
 
 - [Week 1 — Ethics & Law Orientation](./week-01/)
 - [Week 2 — Privacy by Design: Monitoring Policy](./week-02/)
