@@ -10,7 +10,7 @@
 <!-- paste your AUP/Authorization paragraph -->
 
 ## Evidence Links
-- Reflection PDF
+- [Reflection](./reflection.pdf)
 - [Policy snippet](./policy_snippet.pdf)
 <!-- add any diagrams -->
 
